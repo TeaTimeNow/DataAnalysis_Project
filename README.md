@@ -1,4 +1,4 @@
-# DataAnalysis_Project
+# DataAnalysis_Nextflix
 
 Data analysis on GitHub
 
